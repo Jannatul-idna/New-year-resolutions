@@ -121,8 +121,29 @@ line-height: 47px ;
 .sec-child{
     background-color: aliceblue;
     border-radius: 5px;
-
 }
 
+.plan-title{
+    margin-top: 5px;
+    font-family: 'Work Sans';
+    font-style: oblique;
+    font-weight: 10;
+    font-size: medium;
+    line-height: 15px;
+    text-align: center;
+    color: #151414;
+ }
+
+ .plan-description{
+    margin-top: 9px;
+    font-family: 'Work Sans';
+    font-style: oblique;
+    font-weight: 10;
+    font-size: small;
+    line-height: 15px;
+    text-align: center;
+    color: #151414;
+
+ }
 
 
