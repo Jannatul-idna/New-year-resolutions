@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    font-family:  'Open Sans', sans-serif;
+}
+
+header{
+    position: absolute;
+    width: 525px;
+    height: 228px;
+    left: 845px;
+    top: 216px;
+    background-image: url("../images/banner/banner3.png")
+   
+}
