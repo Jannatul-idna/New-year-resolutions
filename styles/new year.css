@@ -93,8 +93,29 @@ top: 430px;
 line-height: 47px ;
 
 }
+.plans{
+    position: absolute;
+    top: 1800px;
+    width: 170px;
+    height: 40px;
+    left: 650px;
+    text-align: center;
+    line-height: 40px;
+
+    font-family: "work sans";
+    font-size: 30px;
+    font-weight: 35px;
+}
 .section-parent{
+    position: absolute;
+    top: 1890px;
+    width: 160px;
+    height: 40px;
+    left: 300px;
+    align-items: baseline;
     display: flex;
+    gap: 180px;
+
 }
 
 
