@@ -12,3 +12,40 @@ header{
     background-image: url("../images/banner/banner3.png")
    
 }
+.line{
+ position: absolute;
+width: 525px;
+height: 228px;
+left: 845px;
+top: 216px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 65px;
+line-height: 76px;
+text-align: left;
+}
+.para{
+position: absolute;
+width: 494px;
+height: 78px;
+left: 825px;
+top: 468px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400px;
+font-size: 16px;
+line-height: 26px;
+text-align: right;
+color: #FFFFFF;
+}
+
+.btn{
+    position: absolute;
+width: 100px;
+height: 32px;
+left: 1210px;
+top: 578px;
+bottom: 160px;
+
+}
