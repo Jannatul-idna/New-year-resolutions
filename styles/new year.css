@@ -93,6 +93,9 @@ top: 430px;
 line-height: 47px ;
 
 }
+.section-parent{
+    display: flex;
+}
 
 
 
