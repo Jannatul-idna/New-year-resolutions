@@ -10,7 +10,7 @@ header{
     left: 0px;
     top: 1px;
     background-image: url("../images/banner/banner3.png")
-   
+    
 }
 .line{
  position: absolute;
@@ -47,5 +47,6 @@ height: 32px;
 left: 1210px;
 top: 578px;
 bottom: 160px;
+border-radius: 50px;
 
 }
