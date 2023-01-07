@@ -1,5 +1,5 @@
 *{
-    margin: 0px;
+    margin: 10px;
     font-family:  'Open Sans', sans-serif;
 }
 
@@ -48,5 +48,15 @@ left: 1210px;
 top: 578px;
 bottom: 160px;
 border-radius: 50px;
+
+}
+main{
+    max-width: 1072;
+    margin-top: 950px;
+}
+.about{
+    max-width:1072px;
+    align-items: flex-start;
+    display: flex;
 
 }
