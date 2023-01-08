@@ -151,7 +151,33 @@ line-height: 47px ;
     height: 300px;;
     top: 2200px;
     left: 260px;
-    background-image: url("../images/watch.png");
+    background:linear-gradient(to right,rgba(122, 185, 230, 0.807),rgba(0, 95, 172, 0)),url("../images/watch.png") ;
+}
+
+
+
+ 
+ .positive{
+    position:absolute;
+    top: 80px;
+    left: 50px;
+    line-height: 35px;
+
+    font-family: "work sans";
+    font-size: 30px;
+    font-weight: 35px;
+    color: aliceblue;
+
+
  }
 
+.btn-cls{
+    position:absolute;
+    top: 180px;
+    left: 50px;
+    padding: 10px;
+    border-radius: 50px;
+    color: white;
+    background-color:rgb(51, 166, 220);
+}
 
